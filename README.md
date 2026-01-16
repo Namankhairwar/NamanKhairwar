@@ -1,17 +1,12 @@
 # 💫 About Me:
 Hi, I’m Naman 👋
 A curious learner passionate about building practical tech solutions and understanding how systems work.
-
 I have a strong foundation in Java, SQL, and Data Structures, with a keen interest in backend development, product thinking, and startups, especially in healthcare tech. I’m currently working on an EHR (Electronic Health Records) idea, which has helped me combine technology, business, and real-world problem solving.
 
 🚀 Currently focused on:
-
 Java & backend fundamentals
-
 Optimized SQL and DSA practice
-
 System design basics
-
 Building and refining my EHR project
 
 🧠 I believe in: learning by building, writing clean and scalable code, and improving 1% every day.
